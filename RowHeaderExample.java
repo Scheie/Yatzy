@@ -1,5 +1,3 @@
-// Example from http://www.crionics.com/products/opensource/faq/swing_ex/SwingExamples.html
-/* (swing1.1beta3) */
 import java.awt.BorderLayout;
 import java.awt.Component;
 import java.awt.event.WindowAdapter;
@@ -16,10 +14,6 @@ import javax.swing.ListModel;
 import javax.swing.UIManager;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.JTableHeader;
-
-/**
- * @version 1.0 11/09/98
- */
 
 class RowHeaderRenderer extends JLabel implements ListCellRenderer {
 
